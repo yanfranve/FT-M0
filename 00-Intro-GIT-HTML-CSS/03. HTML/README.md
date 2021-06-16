@@ -134,6 +134,7 @@ Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo `src
 
 ```html
   <img src="http://www.soyhenry.com/imageurl.jpg" />
+  
 ```
 
 ### \<ul>
